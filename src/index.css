@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-family: sans-serif;
+}
+.btn-container {
+  margin: 0.32rem 0;
+}
+.btn-container .btn {
+  margin: 0.16rem 0;
+}
